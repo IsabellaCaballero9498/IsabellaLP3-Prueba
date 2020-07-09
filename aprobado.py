@@ -11,3 +11,4 @@ def determinar_aprobado(promedio):
 
 promedio=int(input("Promedio: "))
 print(determinar_aprobado(promedio))
+print("hola")
